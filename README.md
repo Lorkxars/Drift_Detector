@@ -12,6 +12,6 @@ Documentation on each of the components can be found at:
 - [Frontend] - Archive structure and compilation instructions
 - [Servidor_de_datos] - Main class and port selection instructions
 
-   [Django]: <https://github.com/Lorkxars/Drift_Detector/Django/README.md>
-   [Frontend]: <https://github.com/Lorkxars/Drift_Detector/Frontend/README.md>
-   [Servidor_de_datos]: <https://github.com/Lorkxars/Drift_Detector/Servidor_de_datos/README.md>
+   [Django]: <https://github.com/Lorkxars/Drift_Detector/tree/master/Django>
+   [Frontend]: <https://github.com/Lorkxars/Drift_Detector/tree/master/Frontend/app>
+   [Servidor_de_datos]: <https://github.com/Lorkxars/Drift_Detector/tree/master/Servidor_de_datos>
